@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Buy milk",
+    "created": "2025-10-19T19:41:39.167189Z",
+    "tags": [
+      "groceries",
+      "food"
+    ],
+    "done": false
+  }
+]
